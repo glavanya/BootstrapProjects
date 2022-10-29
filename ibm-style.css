@@ -1,0 +1,20 @@
+.sidebar{
+    background-color:#212529;;
+    max-height:600px;
+    overflow-y: scroll;
+}
+
+.list-group-item{
+    background-color:transparent;
+    color:#fff;
+    border-bottom: 1px solid #dddd;
+    
+}
+.maincontent{
+    background-color:#dddd;
+
+}
+.table{
+
+    background-color: #fff;
+}
